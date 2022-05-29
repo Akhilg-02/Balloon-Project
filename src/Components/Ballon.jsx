@@ -94,8 +94,9 @@ export const Baloon = () => {
         <div className="left">
           <Dispaly statusVal={false} />
         </div>
-
+            
         <div className="middle">
+            
           <Dispaly statusVal={true} />
         </div>
 
